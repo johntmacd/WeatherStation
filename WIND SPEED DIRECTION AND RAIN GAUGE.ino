@@ -3,7 +3,7 @@
 // Below are the pin definitions for each sensor of the weather meter kit
 
 // Pins for Weather Carrier with ESP32 Processor Board
-int windDirectionPin = A0;
+int windDirectionPin = A3;
 int windSpeedPin = 3;
 int rainfallPin = 2;
 
